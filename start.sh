@@ -31,5 +31,5 @@ sleep 2.5
 
 bash upload.sh
 sleep 2
-bash failure.sh
+echo "stop now" > /root/failure.txt
 sleep 1
