@@ -30,3 +30,6 @@ done
 sleep 2.5
 
 bash upload.sh
+sleep 2
+bash failure.sh
+sleep 1
