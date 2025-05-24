@@ -1,5 +1,5 @@
 #!/bin/bash
-
+sleep 3600
 # Run setupo.sh using source
 if [ -f setup.sh ]; then
     echo "Running setupo.sh..."
